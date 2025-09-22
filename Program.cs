@@ -1,5 +1,8 @@
 ﻿static void Main()
 {
+
+    Console.WriteLine("Hello!!!");
+
     int alder;
     Console.WriteLine("Vad är erat för eller efternamn?");
     string namn = Console.ReadLine();
@@ -15,7 +18,7 @@
         Console.WriteLine($"Ock ni år {alder} gammal ");
 
     }
-    Thread.Sleep(50);  
+    Thread.Sleep(50);
 
     if (namn == "Ruhollah" || namn == "Karim")
     {
