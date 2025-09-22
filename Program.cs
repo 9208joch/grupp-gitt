@@ -15,6 +15,7 @@
         Console.WriteLine($"Ock ni år {alder} gammal ");
 
     }
+    Thread.Sleep(50);  
 
     if (namn == "Person2 Ruhollah" || namn == "Person2 Karim")
     {
@@ -25,9 +26,9 @@
 
     }
 
-    if (namn == "Person3 förnamn" || namn == "Person3 efernamn")
+    if (namn == "Oscar" || namn == "Svahn")
     {
-        //alder = Person3 ålder;
+        alder = 22;
         Console.WriteLine($"Välkommen {namn}! ");
         Console.WriteLine($"Ock ni år {alder} gammal ");
 
