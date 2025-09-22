@@ -31,12 +31,4 @@
         Console.WriteLine($"Ock ni år {alder} gammal ");
 
     }
-
-    if (namn == "Person4 förnamn" || namn == "Person4 efernamn")
-    {
-        //alder = Person4 ålder;
-        Console.WriteLine($"Välkommen {namn}! ");
-        Console.WriteLine($"Ock ni år {alder} gammal ");
-
-    }
 }
