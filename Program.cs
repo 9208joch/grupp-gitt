@@ -9,7 +9,7 @@
     if (namn == "Joachim" || namn == "Christiansson")
     {
         // joachim christiansson
-
+        
         alder = 33;
         Console.WriteLine($"Välkommen {namn}! ");
         Console.WriteLine($"Ock ni år {alder} gammal ");
