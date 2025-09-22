@@ -16,9 +16,10 @@
 
     }
 
-    if (namn == "Person2 förnamn" || namn == "Person2 efernamn")
+    if (namn == "Person2 Ruhollah" || namn == "Person2 Karim")
     {
-        //alder = Person2 ålder;
+        // Ruhollah Karim
+        alder = 20;
         Console.WriteLine($"Välkommen {namn}! ");
         Console.WriteLine($"Ock ni år {alder} gammal ");
 
