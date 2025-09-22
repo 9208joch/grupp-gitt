@@ -17,7 +17,7 @@
     }
     Thread.Sleep(50);  
 
-    if (namn == "Person2 Ruhollah" || namn == "Person2 Karim")
+    if (namn == "Ruhollah" || namn == "Karim")
     {
         // Ruhollah Karim
         alder = 20;
