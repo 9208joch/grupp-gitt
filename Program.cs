@@ -4,6 +4,8 @@
     Console.WriteLine("Hello!!!");
     Console.WriteLine("Hello!");
     Console.WriteLine("Hello!");
+    Console.WriteLine("Hello!");
+    Console.WriteLine("tjena!");
 
     int alder;
     Console.WriteLine("Vad är erat för eller efternamn?");
